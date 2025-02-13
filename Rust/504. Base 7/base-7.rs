@@ -12,7 +12,7 @@ impl Solution {
         let negative = num < 0;
 
         if negative {
-        num = -num
+            num = -num
         }
         
         while num > 0 {
